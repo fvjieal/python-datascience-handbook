@@ -1,0 +1,6 @@
+cd Documents
+
+cd jupyter notebook
+
+jupyter notebook
+
